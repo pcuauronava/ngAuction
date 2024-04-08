@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Isn't it cool when things look old, but they're not...",
+    "imageUrl": "data/img/radio.png",
+    "price": 300,
+    "title": "Vintage Bluetooth Radio"
+  },
+  {
+    "id": 2,
+    "description": "Be an optimist. Carry Sunglasses with you at all times..           .",
+    "featured": true,
+    "imageUrl": "data/img/sunnies.png",
+    "price": 70,
+    "title": "Sunglasses"
+  }
+]
